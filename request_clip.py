@@ -1,6 +1,6 @@
 import requests
 
-url = "http://localhost:80"
+url = "http://3.110.56.41:80"
 
 url = url + "/find_similarity?text=Cat,Two Cat,Dog,Person,Car"
 

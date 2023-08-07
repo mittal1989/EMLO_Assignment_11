@@ -1,3 +1,5 @@
+# locust -f locust_test.py
+
 from locust import HttpUser, task, between
 
 class StressTest(HttpUser):
